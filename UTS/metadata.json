@@ -1,0 +1,6 @@
+{
+  "name": "TMD Nexora - Profil Perusahaan & Layanan IT",
+  "description": "Website profil perusahaan agensi digital Nexora dengan tabel harga layanan UMKM, navigasi hyperlink tag anchor, dan implementasi semantik HTML5 modern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
