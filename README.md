@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TMD Nexora - Website Profil Perusahaan
 
-# Run and deploy your AI Studio app
+Proyek Ujian Tengah Semester (UTS) Mata Kuliah Rekayasa Web.
 
-This contains everything you need to run your app locally.
+- **Nama:** Topan Muhammad Derajat
+- **NIM:** 241091700521
+- **Program Studi:** Sistem Informasi S-1 (Universitas Pamulang Kampus Serang)
 
-View your app in AI Studio: https://ai.studio/apps/c0a816ef-41df-4bef-9727-f8a79ae949e5
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Deskripsi Proyek
+Website profil agensi teknologi digital **TMD Nexora** yang menyajikan informasi profil perusahaan, portofolio layanan, struktur semantik web, dan tabel paket harga layanan UMKM.
